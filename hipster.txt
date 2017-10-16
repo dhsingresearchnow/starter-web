@@ -1,0 +1,3 @@
+The U.S. Department of Homeland Security on Monday warned of cyber risks associated with a widely used system for securing Wi-Fi communications after Belgian researchers discovered a flaw that could allow hackers to read information thought to be encrypted, or infect websites with malware.
+
+The alert from the DHS Computer Emergency Response Team said the flaw could be used within range of Wi-Fi using the WPA2 protocol to hijack private communications. It recommended installing vendor updates on affected products, such as routers provided by Cisco Systems Inc or Juniper Networks Inc. 
