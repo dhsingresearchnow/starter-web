@@ -6,8 +6,9 @@ This is example.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos !
 
 ## Deployment
+add Deployment
 
 ## How to Contribute
