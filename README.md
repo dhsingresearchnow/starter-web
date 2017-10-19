@@ -12,6 +12,7 @@ Sample website with plenty of files for demos !
 add Deployment
 
 ## How to Contribute
+Please fork this repositoty and then issue pull requests for review
 
 ### Copyright
 2017 Git. Training.
