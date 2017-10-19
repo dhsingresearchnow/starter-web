@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Diane Hsing dhsing@researchnow.com	@dhsing
 
 # THANKS
 
