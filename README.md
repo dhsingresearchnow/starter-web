@@ -12,3 +12,6 @@ Sample website with plenty of files for demos !
 add Deployment
 
 ## How to Contribute
+
+### Copyright
+2017 Git. Training.
