@@ -16,4 +16,4 @@ add Deployment
 Please fork this repositoty and then issue pull requests for review
 
 ### Copyright
-2017 Git. Training.
+2017 Git. Training. All rights reserved.
